@@ -1,10 +1,3 @@
-bool me = true;
+Hi! 
 
-
-
-
-
-
-
-
-
+Hello.
