@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 🌠 About Me:
 💻 Aspiring .NET Software Engineer/Developer<br>📖 Currently studying Computer Science in First City Providential College<br>
 
 
